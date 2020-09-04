@@ -47,53 +47,53 @@ const CalendarColumn = (props) => {
                             </tr>
                             <tr>
                             <th className="normal-font">L</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th className="normal-font">M</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th className="normal-font">Mi</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>1</td>
+                            <td>$ 3,150</td>
                             </tr>
                             <tr>
                             <th className="normal-font">J</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th className="normal-font">V</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th className="normal-font">S</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th className="normal-font">D</th>
-                            <td>A1</td>
-                            <td>B1</td>
+                            <td>0</td>
+                            <td>0</td>
                             </tr>
                             <tr>
                             <th>Sub-total</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>1</td>
+                            <td>$ 3,150</td>
                             </tr>
                             <tr>
                             <th>IGV 18%</th>
                             <td className="little-space"></td>
-                            <td>B2</td>
+                            <td>$567</td>
                             </tr>
                             <tr>
                             <th>Total</th>
-                            <td>A2</td>
-                            <td>B2</td>
+                            <td>1</td>
+                            <td>$3717</td>
                             </tr>
                         </tbody>
                         </table>

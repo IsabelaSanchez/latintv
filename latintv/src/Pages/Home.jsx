@@ -35,7 +35,7 @@ const Home = () => {
                     <img className='imageCategory' src={image3} alt=''/>
                     <div className='nameCategory'>
                         <p className='category'>BLOQUE DE PROGRAMAS<br/>SUPER PRIME</p>
-                        <Link className='selectCaregory' to={'/login'}>Detalles</Link>
+                        <Link className='selectCaregory' to={'/CategoriaSuperPrime'}>Detalles</Link>
                     </div>
                 </section>
             </div>

@@ -9,7 +9,7 @@ const FloatButton = () => {
             <input type="checkbox" id="btn-mas"></input>
             <div className="redes">
                 <a href="#">
-                <ChatBotLatin/>
+                <ChatBotLatin className='containerChatbot'/>
                 </a>
             </div>
             <div className="btn-mas1">

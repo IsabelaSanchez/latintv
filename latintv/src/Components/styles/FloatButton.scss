@@ -32,10 +32,12 @@
 .redes a{
     margin-bottom: -15px;
     opacity:0;
+    display: none;
     visibility: hidden;
 }
 #btn-mas:checked~ .redes a{
     margin-bottom: 10px;
     opacity: 1;
     visibility: visible;
+    display: block;
 }
